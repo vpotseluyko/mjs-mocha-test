@@ -1,0 +1,23 @@
+{
+  "name": "mjs-mocha-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mjs-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogibear9988/mjs-mocha-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jogibear9988/mjs-mocha-test/issues"
+  },
+  "homepage": "https://github.com/jogibear9988/mjs-mocha-test#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mjs-mocha": "^2.2.2"
+  }
+}
